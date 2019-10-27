@@ -1,1 +1,1 @@
-# that's the default branch for labs
+# that's the default branch for university's labs
